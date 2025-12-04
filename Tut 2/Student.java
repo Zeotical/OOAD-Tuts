@@ -5,5 +5,5 @@ public class Student extends Person {
     super(name,gender);
   }
 
-  
+  ArrayList<Subject> sub = new ArrayList<Subject> ;
 }
